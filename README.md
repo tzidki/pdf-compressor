@@ -10,7 +10,7 @@ PDF Compressor is a simple tool to compress PDF files using Ghostscript. It chec
 ## Installation
 
 1. **Download the Executable:**
-   Download the latest version from the [Releases](https://github.com/tzidki/pdf-compressor/releases) page.
+   Download the latest version from the https://github.com/tzidki/pdf-compressor/releases page.
 
 2. **Place PDF Files:**
    Place the PDF files you want to compress in the same directory as the executable.
@@ -18,7 +18,7 @@ PDF Compressor is a simple tool to compress PDF files using Ghostscript. It chec
 ## Usage
 
 1. **Run the Application:**
-   Double-click the executable `pdf-compressor.exe`.
+   Right-click the executable `pdf-compressor.exe` and select "Run as administrator" to ensure the installation and compression processes have the necessary permissions.
 
 2. **Monitor Progress:**
    The application will display progress and log details to the console and a log file `compress_pdfs_log.txt` in the same directory.
@@ -34,7 +34,7 @@ If you would like to contribute, please fork the repository and use a feature br
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
